@@ -65,6 +65,12 @@ header.scrolled {
     transition-duration: 0.5s;
   }
 
+  header .menu-icon--text {
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: bold;
+    font-size: 0.5em;
+  }
+
   header .drawer-hamburger {
     padding: 0;
     height: 3.75rem;
